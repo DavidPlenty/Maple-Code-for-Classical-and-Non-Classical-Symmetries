@@ -142,8 +142,8 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
-<Group view="presentation" inline-output="false" labelreference="L412" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal">Classical code for 1-D second order PDEs F(x,t,u,u_x,u_t,u_xx,u_tt,u_xt) = 0. </Text-field>
+<Group view="presentation" inline-output="false" labelreference="L414" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Classical code for second-order PDEs F(x,t,u,u_x,u_t,u_xx,u_tt,u_xt) = 0 that depend explicitly on u_xx. </Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L398" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
